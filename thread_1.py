@@ -12,4 +12,4 @@ for i in range(10):
 
 finish=time.perf_counter()
 
-print(f'Finished in :{round(finish-start,2)} seconds')
+print(f'Finished in :{round(finish-start,2)} seconds') #added
